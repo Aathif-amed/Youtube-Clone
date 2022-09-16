@@ -1,0 +1,23 @@
+.card-img-top {
+  max-width: 100%;
+  height: auto;
+}
+
+h5 {
+  display: -webkit-box;
+  max-width: 200px;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.card-text {
+  display: -webkit-box;
+  max-width: 200px;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+#viewDeatilsdiv{
+  background-color:#EEEEEE ;
+}
